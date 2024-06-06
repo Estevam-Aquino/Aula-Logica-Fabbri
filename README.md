@@ -1,4 +1,4 @@
-# Aula Lógica Fabbri
+# Primeiro Erro
 Código feito para tratamento de erros no projeto
 
 # Exemplo de código para tratamento de erros em Python
